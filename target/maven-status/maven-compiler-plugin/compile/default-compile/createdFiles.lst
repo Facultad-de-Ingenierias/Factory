@@ -1,0 +1,6 @@
+com\mycompany\factory\Autos\Auto.class
+com\mycompany\factory\Main.class
+com\mycompany\factory\Autos\AutoDeTrabajo.class
+com\mycompany\factory\Autos\AutoDeportivo.class
+com\mycompany\factory\Autos\Autobus.class
+com\mycompany\factory\Autos\FabricaAutos.class
